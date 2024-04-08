@@ -1,0 +1,12 @@
+.fondonav {
+    background-color: #007bff; /* Color de fondo azul */
+    border-radius: 0; /* Bordes redondeados */
+    padding: 10px;
+}
+
+.letranav {
+    color: #ffffff; /* Color del texto */
+    text-decoration: none; /* Quitar subrayado del enlace */
+    transition: color 0.3s; /* Transición suave para el color del texto */
+    margin-right: 20px; /* Agregar un margen entre los elementos del navbar */
+}
