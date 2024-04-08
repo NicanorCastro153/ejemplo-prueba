@@ -1,0 +1,23 @@
+.letras-titulos{
+    font-size: 300%;
+
+
+}
+
+.centrar-img{
+
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+
+
+}
+
+.subtitulos{
+    font-size: 200%;
+
+
+}
